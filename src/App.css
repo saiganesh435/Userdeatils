@@ -1,0 +1,21 @@
+.appContainer {
+    padding: 20px;
+  }
+  
+  .sortButtons {
+    margin-bottom: 20px;
+  }
+  
+  .sortButtons button {
+    margin-right: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .userContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
